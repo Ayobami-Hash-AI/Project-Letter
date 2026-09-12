@@ -90,17 +90,42 @@ I reinforced Microsoft Azure administration and security concepts relevant to cl
 
 These topics support my broader goal of working effectively across security operations, identity, infrastructure, and cloud environments.
 
-## 5. Professional Learning and Certification
+## 5. Technology Certifications and Credentials
 
-My current development plan combines hands-on labs with certification preparation:
+My completed credentials reflect continued development across cybersecurity foundations, governance and risk, cloud computing, enterprise platforms, and applied technical learning.
+
+### Cybersecurity and Governance
+
+| Credential | Issuer | Issued | Validity |
+|---|---|---:|---:|
+| **Cybersecurity Foundations: Governance, Risk, and Compliance (GRC)** | LinkedIn Learning | August 2026 | No expiry stated |
+| **Certified in Cybersecurity (CC)** | ISC2 | March 2026 | Through March 2029 |
+| **Fortinet NSE 2 Certified in Cybersecurity** | Fortinet | January 2026 | Through January 2028 |
+| **Fortinet NSE 1 Certified in Cybersecurity** | Fortinet | January 2026 | Through January 2028 |
+| **Cyber Security 101 Certificate** | TryHackMe | July 2026 | Through July 2029 |
+| **Pre Security (Legacy) Certificate** | TryHackMe | February 2026 | Through May 2029 |
+
+### Cloud, Platforms, and AI
+
+| Credential | Issuer | Issued |
+|---|---|---:|
+| **Microsoft Certified: Azure Fundamentals** | Microsoft | August 2026 |
+| **Micro-Certification — Welcome to ServiceNow** | ServiceNow | August 2026 |
+| **AI Skills Fest 2026** | Microsoft | June 2026 |
+| **AWS Cloud Quest: Cloud Practitioner** | Amazon Web Services | May 2026 |
+| **AWS Academy Graduate — Cloud Foundations** | Amazon Web Services | April 2026 |
+
+These credentials complement my practical labs by establishing verified foundations in security principles, governance and compliance, Microsoft Azure, AWS cloud concepts, ServiceNow, AI, networking, and defensive-security practice.
+
+## 6. Current Learning and Certification Goals
+
+My active development plan combines hands-on labs with industry certification preparation:
 
 - **CompTIA Security+** — active preparation
 - **CompTIA CySA+** — examination planned for late October 2026
-- **ISC2 Certified in Cybersecurity (CC)** — completed
 - **TryHackMe SOC Level 1** — in progress
 - **TryHackMe AI Security** — in progress
-
-I am also building familiarity with ISO/IEC 27001 and IT service-management concepts to strengthen the connection between technical controls, governance, risk, and operational service delivery.
+- **ISO/IEC 27001 and IT service management** — developing governance and operational knowledge
 
 ## Tools and Technologies Used
 
