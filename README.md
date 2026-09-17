@@ -28,6 +28,10 @@ My primary objective has been to move beyond theoretical familiarity and develop
 | Certification readiness | Prepared for CompTIA Security+ and CySA+ | Risk, operations, incident response, vulnerability management |
 | Cloud administration | Reinforced Microsoft Azure administration concepts | Entra ID, RBAC, Azure Policy, monitoring, storage, networking |
 
+## Verified TryHackMe Progress — September 17, 2026
+
+The public TryHackMe profile records a **100-day learning streak**, **110 completed rooms**, **26 badges**, a global rank of **82,258**, and **top-4% standing**. The 100-day milestone demonstrates sustained hands-on practice and professional discipline across the profile’s completed cybersecurity learning activities. Specific new room completions or SOC Level 1 and AI Security path percentages were not publicly identifiable, so no additional completion claims are made here.
+
 ## 1. SOC and Network-Traffic Analysis
 
 I worked through practical security-operations exercises requiring the examination of network evidence rather than reliance on assumptions. I developed greater confidence in:
