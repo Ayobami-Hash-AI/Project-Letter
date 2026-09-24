@@ -28,6 +28,10 @@ My primary objective has been to move beyond theoretical familiarity and develop
 | Certification readiness | Prepared for CompTIA Security+ and CySA+ | Risk, operations, incident response, vulnerability management |
 | Cloud administration | Reinforced Microsoft Azure administration concepts | Entra ID, RBAC, Azure Policy, monitoring, storage, networking |
 
+## Verified TryHackMe Progress — September 24, 2026
+
+The public TryHackMe profile now records a **107-day learning streak**, **111 completed rooms**, **26 badges**, a global rank of **81,339**, and **top-4% standing**. Compared with the last verified update on September 18, this confirms **five additional streak days** and a **209-position improvement in global rank**, while completed rooms and badges remain unchanged. The publicly visible profile does not verify a new room, certificate, badge, or SOC Level 1 or AI Security path percentage, so no such claim is made. This progress demonstrates sustained hands-on learning consistency and continued engagement with cybersecurity practice.
+
 ## Verified TryHackMe Progress — September 18, 2026
 
 The public TryHackMe profile now records a **102-day learning streak**, **111 completed rooms**, **26 badges**, a global rank of **81,548**, and **top-4% standing**. Compared with September 17, this verifies **two additional streak days**, **one additional completed room**, and a **710-position improvement in global rank**. The publicly visible profile does not identify which room was newly completed or provide SOC Level 1 or AI Security path percentages, so no room-specific or pathway-completion claim is made. The verified progress demonstrates continued hands-on cybersecurity practice and learning consistency.
