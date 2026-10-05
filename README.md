@@ -28,6 +28,10 @@ My primary objective has been to move beyond theoretical familiarity and develop
 | Certification readiness | Prepared for CompTIA Security+ and CySA+ | Risk, operations, incident response, vulnerability management |
 | Cloud administration | Reinforced Microsoft Azure administration concepts | Entra ID, RBAC, Azure Policy, monitoring, storage, networking |
 
+## Verified TryHackMe Progress — October 5, 2026
+
+The public TryHackMe profile now records a **119-day learning streak**, **112 completed rooms**, **27 badges**, a global rank of **81,834**, **top-3% standing**, and platform level **53**. Compared with the last verified update on October 4, this confirms **two additional streak days**, **one additional completed room**, and a **10-position improvement in global rank**, while badges, percentile standing, and level remain unchanged. The completed-room list now includes **AI Security Threats**, which covers AI-introduced vulnerabilities, attacker exploitation methods, and defensive responses. This provides verifiable evidence of continued development in AI-security threat awareness and defensive analysis. The public profile does not expose a completion date or SOC Level 1 or AI Security pathway percentage, so no pathway-completion, certificate, or additional badge claim is made.
+
 ## Verified TryHackMe Progress — October 4, 2026
 
 The public TryHackMe profile now records a **117-day learning streak**, **111 completed rooms**, **27 badges**, a global rank of **81,844**, and **top-3% standing**. Compared with the last verified update on October 1, this confirms **two additional streak days**, while completed rooms, badges, and percentile standing remain unchanged. The numerical global rank moved from 81,636 to 81,844. The profile also displays platform level **53**, but the prior entry did not record a level baseline, so no level-change claim is made. The publicly visible profile does not verify a new room, certificate, badge, or SOC Level 1 or AI Security path percentage, so no such claim is made. This update demonstrates sustained learning consistency and professional discipline without overstating unverified technical competencies.
