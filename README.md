@@ -1,11 +1,58 @@
 # Cybersecurity Project Letter
 
-## Monthly Progress Report — August–September 2026
+## Cybersecurity Development Journal | Updated October 9, 2026
 
 **Ayobami Odulaja**  
-Cybersecurity Analyst | Blue-Team and Healthcare Security Focus
+Cybersecurity Analyst | SOC Operations · Cloud & Linux Security · Long-Term Healthcare Security Focus
 
 [LinkedIn](https://www.linkedin.com/in/ayobami-o-077004152) · [TryHackMe](https://tryhackme.com/p/odulajaayobami) · [Cybersecurity Portfolio](https://github.com/Ayobami-Hash-AI/Cybersecurity-Portfolio-Ayobami-Odulaja)
+
+---
+
+## October 2026 — Current Development Update
+
+**North star: healthcare cybersecurity.** My immediate work in SOC analysis, Linux, scripting, cloud security, and networking is deliberately building toward protecting healthcare infrastructure, clinical applications, patient information, and the availability of critical care services. My clinical background helps me connect technical incidents to patient-safety and operational consequences.
+
+### Recent milestone: CompTIA Security+ passed — October 1, 2026
+
+I passed **CompTIA Security+** on October 1, 2026. This is a completed certification milestone, not an exam still in preparation. I am now preparing for **CompTIA CySA+ (CS0-004)**, with my exam scheduled for **October 31, 2026**.
+
+### Linux practice — LabEx (started October 2026)
+
+I began structured, hands-on Linux training through **LabEx**. Initial practice includes:
+- Creating files with `touch`.
+- Changing ownership and groups with `chown`.
+- Applying and verifying Unix permissions with `chmod` and `ls -l`.
+- Connecting permission models to least privilege and Linux system hardening.
+
+**Next steps:** shell navigation, user and group administration, process and service inspection, networking commands, log analysis, Bash scripting, and Linux incident-response workflows. These are learning goals, not completed projects.
+
+### SOC alert investigations and reporting
+
+Recent guided security simulations have focused on:
+- Reviewing phishing alerts, related communications, and event timelines.
+- Correlating available telemetry and distinguishing observed evidence from assumptions.
+- Examining potentially suspicious ICMP traffic and network artifacts.
+- Writing structured incident reports with findings, impact assessment, disposition, and recommended follow-up.
+- Practising Splunk Search Processing Language (SPL) for investigative queries.
+
+**Analyst discipline:** A missing data source alone does not establish that an alert is benign; conclusions should reflect the available evidence and visibility gaps.
+
+### Python, cloud, and security engineering
+
+I am developing **Python** for scripting and future security automation, alongside Azure administration and identity-security concepts such as Entra ID, RBAC, logging, and network controls. My practical Python work is tracked separately in the [Python repository](https://github.com/Ayobami-Hash-AI/Python). The [cybersecurity portfolio](https://github.com/Ayobami-Hash-AI/Cybersecurity-Portfolio-Ayobami-Odulaja) holds broader lab and security-project work.
+
+### Development roadmap
+
+| Phase | Priority | Healthcare-security connection |
+|---|---|---|
+| **Now — October 2026** | CySA+ preparation, Linux fundamentals, SOC investigations, Python practice | Detect and investigate threats affecting sensitive clinical environments |
+| **Next** | SC-200, deeper Microsoft security monitoring, detection engineering | Improve visibility and incident response across healthcare identities and endpoints |
+| **Then** | CCNA and stronger Linux/network administration | Understand and protect clinical networks and connected infrastructure |
+| **Later** | ITIL, security engineering, governance and risk | Align reliable security operations with healthcare service continuity |
+| **Long-term specialization** | Healthcare SOC, cloud/identity security, medical-device and clinical-system security | Protect patient data, care delivery, and critical healthcare services |
+
+This roadmap describes intended development, not credentials already earned.
 
 ---
 
@@ -169,8 +216,8 @@ These credentials complement my practical labs by establishing verified foundati
 
 My active development plan combines hands-on labs with industry certification preparation:
 
-- **CompTIA Security+** — active preparation
-- **CompTIA CySA+** — examination planned for late October 2026
+- **CompTIA Security+** — **passed October 1, 2026**
+- **CompTIA CySA+ (CS0-004)** — examination scheduled for October 31, 2026
 - **TryHackMe SOC Level 1** — in progress
 - **TryHackMe AI Security** — in progress
 - **ISO/IEC 27001 and IT service management** — developing governance and operational knowledge
@@ -201,12 +248,12 @@ My next phase will focus on:
 - Generating controlled attack activity from Kali Linux
 - Creating detection searches and documenting incident investigations
 - Running Nessus vulnerability assessments and prioritizing remediation
-- Continuing Security+ and CySA+ practice, including performance-based questions
+- Continuing CySA+ practice, including performance-based questions, and extending hands-on Linux skills
 - Publishing concise, evidence-based project write-ups
 
 ## Professional Commitment
 
-I am building toward a career in blue-team, network-security, and healthcare-cybersecurity operations. I approach every lab as an opportunity to demonstrate analytical discipline, ethical judgment, clear communication, and continuous improvement—not merely tool familiarity.
+I am building toward a career in healthcare cybersecurity through blue-team operations, Linux and network security, cloud security, and ultimately security engineering. I approach every lab as an opportunity to demonstrate analytical discipline, ethical judgment, clear communication, and continuous improvement—not merely tool familiarity.
 
 ---
 
