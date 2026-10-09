@@ -9,6 +9,18 @@ Cybersecurity Analyst | SOC Operations · Cloud & Linux Security · Long-Term He
 
 ---
 
+## Quick overview for recruiters
+
+**Professional direction:** SOC operations, threat detection, network defense, identity and cloud security, and security engineering. My clinical background is an additional strength for high-stakes environments, with healthcare security as a long-term specialization—not an industry restriction.
+
+**Recent milestones:** CompTIA Security+ passed **October 1, 2026**; CySA+ preparation underway for **October 31, 2026**; practical Linux learning on LabEx; ongoing SOC investigations and reporting.
+
+**Explore the work:** [Cybersecurity portfolio](https://github.com/Ayobami-Hash-AI/Cybersecurity-Portfolio-Ayobami-Odulaja) · [Python projects](https://github.com/Ayobami-Hash-AI/Python) · [Linux labs](https://github.com/Ayobami-Hash-AI/Linux-Administration-and-Security) · [TryHackMe](https://tryhackme.com/p/odulajaayobami)
+
+**Reading guide:** This repository is a dated professional-development journal, not a substitute for technical project evidence. The latest updates appear first; older milestones remain for historical context. Certification achievements, course completions, badges, and future goals are separate categories.
+
+---
+
 ## October 2026 — Current Development Update
 
 **North star: healthcare cybersecurity.** My immediate work in SOC analysis, Linux, scripting, cloud security, and networking is deliberately building toward protecting healthcare infrastructure, clinical applications, patient information, and the availability of critical care services. My clinical background helps me connect technical incidents to patient-safety and operational consequences.
@@ -72,7 +84,7 @@ My primary objective has been to move beyond theoretical familiarity and develop
 | Detection engineering | Practised Sigma concepts and network-control logic | Detection logic, firewall rules, DNS blocking |
 | AI security | Progressed through the TryHackMe AI Security pathway | Emerging-threat awareness, security implications of AI systems |
 | Home-lab engineering | Continued developing the MedSecure SOC environment | Network segmentation, logging architecture, endpoint visibility |
-| Certification readiness | Prepared for CompTIA Security+ and CySA+ | Risk, operations, incident response, vulnerability management |
+| Certification readiness | Passed CompTIA Security+; preparing for CySA+ | Risk, operations, incident response, vulnerability management |
 | Cloud administration | Reinforced Microsoft Azure administration concepts | Entra ID, RBAC, Azure Policy, monitoring, storage, networking |
 
 ## Verified TryHackMe Progress — October 8, 2026
