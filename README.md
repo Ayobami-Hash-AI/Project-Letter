@@ -1,6 +1,6 @@
 # Cybersecurity Project Letter
 
-## Cybersecurity Development Journal | Updated October 26, 2026
+## Cybersecurity Development Journal | Updated October 29, 2026
 
 **Ayobami Odulaja**  
 Cybersecurity Analyst | SOC Operations · Cloud & Linux Security · Long-Term Healthcare Security Focus
@@ -86,6 +86,12 @@ My primary objective has been to move beyond theoretical familiarity and develop
 | Home-lab engineering | Continued developing the MedSecure SOC environment | Network segmentation, logging architecture, endpoint visibility |
 | Certification readiness | Passed CompTIA Security+; preparing for CySA+ | Risk, operations, incident response, vulnerability management |
 | Cloud administration | Reinforced Microsoft Azure administration concepts | Entra ID, RBAC, Azure Policy, monitoring, storage, networking |
+
+## Verified TryHackMe Progress — October 29, 2026
+
+The public TryHackMe profile now records a **142-day highest streak**, displayed capability score **52**, **top-3% standing**, and highest league **Sapphire**. Compared with the last verified update on October 26, this confirms **two additional streak days**. The displayed capability score is now 52 rather than 45; because TryHackMe does not explain the change and platform scoring or presentation may vary, this is recorded as a current displayed value rather than a verified gain in skill.
+
+The completed-room list now publicly includes **Snort**, verifying practical learning in using Snort to detect real-time threats, analyze recorded traffic files, and identify anomalies. The profile continues to show **two completed learning paths**—Cyber Security 101 and Pre Security (Legacy)—but does not publicly expose a numerical global rank, definitive room total, badge total, a new certificate, or SOC Level 1 and AI Security pathway percentages. Therefore, no unverified rank, badge, certificate, or pathway-progress claim is made.
 
 ## Verified TryHackMe Progress — October 26, 2026
 
