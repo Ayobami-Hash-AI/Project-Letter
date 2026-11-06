@@ -1,6 +1,6 @@
 # Cybersecurity Project Letter
 
-## Cybersecurity Development Journal | Updated November 5, 2026
+## Cybersecurity Development Journal | Updated November 6, 2026
 
 **Ayobami Odulaja**  
 Cybersecurity Analyst | SOC Operations · Cloud & Linux Security · Long-Term Healthcare Security Focus
@@ -86,6 +86,12 @@ My primary objective has been to move beyond theoretical familiarity and develop
 | Home-lab engineering | Continued developing the MedSecure SOC environment | Network segmentation, logging architecture, endpoint visibility |
 | Certification readiness | Passed CompTIA Security+; preparing for CySA+ | Risk, operations, incident response, vulnerability management |
 | Cloud administration | Reinforced Microsoft Azure administration concepts | Entra ID, RBAC, Azure Policy, monitoring, storage, networking |
+
+## Verified TryHackMe Progress — November 6, 2026
+
+The public TryHackMe profile now records a **150-day highest streak**, displayed capability score **53**, **top-3% standing**, and highest league **Sapphire**. Compared with the last verified update on November 5, this confirms **two additional streak days** and the **150-day milestone**, while the displayed score, percentile standing, highest league, and **two completed learning paths**—Cyber Security 101 and Pre Security (Legacy)—remain unchanged.
+
+The completed-room list now extends beyond the previously verified November 2 room to include **Detecting Web Shells**, **Detecting Web DDoS**, and **Prompt Engineering**. These completions verify practical development in detecting web-shell activity through log, file-system, and network analysis; identifying and investigating application-layer DoS/DDoS activity through web logs and SIEM analysis, with related defensive mitigation concepts; and understanding LLM text processing, generation parameters, structured prompting, and prompt use in security and adversarial testing. The rooms are associated publicly with the SOC Level 1 and AI Security learning content, but the profile does not expose a dated pathway percentage, a new badge or certificate, or a numerical global-rank change; therefore, no such claim is made.
 
 ## Verified TryHackMe Progress — November 5, 2026
 
