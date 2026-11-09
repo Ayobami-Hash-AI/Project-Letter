@@ -1,6 +1,6 @@
 # Cybersecurity Project Letter
 
-## Cybersecurity Development Journal | Updated November 6, 2026
+## Cybersecurity Development Journal | Updated November 9, 2026
 
 **Ayobami Odulaja**  
 Cybersecurity Analyst | SOC Operations · Cloud & Linux Security · Long-Term Healthcare Security Focus
@@ -86,6 +86,12 @@ My primary objective has been to move beyond theoretical familiarity and develop
 | Home-lab engineering | Continued developing the MedSecure SOC environment | Network segmentation, logging architecture, endpoint visibility |
 | Certification readiness | Passed CompTIA Security+; preparing for CySA+ | Risk, operations, incident response, vulnerability management |
 | Cloud administration | Reinforced Microsoft Azure administration concepts | Entra ID, RBAC, Azure Policy, monitoring, storage, networking |
+
+## Verified TryHackMe Progress — November 9, 2026
+
+The public TryHackMe profile now records a **152-day highest streak**, displayed capability score **54**, **top-3% standing**, and highest league **Sapphire**. Compared with the last verified update on November 6, this confirms **two additional streak days** and a displayed score change from 53 to 54. Because TryHackMe does not explain the score change, it is recorded as a current displayed value rather than an inferred gain in skill. The profile continues to show **two completed learning paths**—Cyber Security 101 and Pre Security (Legacy).
+
+The completed-room list now includes **AI Forensics**. This verifies hands-on learning in AI-assisted digital forensics and incident response, including anomaly-led log and file analysis, phishing and attack-timeline investigation, and the need to validate model findings with human judgment. The room also covers forensic limitations and governance considerations such as probabilistic outputs, precision-recall trade-offs, explainability, chain of custody, bias, privacy, and evidentiary integrity. The public profile does not expose a new badge, certificate, numerical global-rank change, or updated SOC Level 1 or AI Security pathway percentage; therefore, no such claim is made.
 
 ## Verified TryHackMe Progress — November 6, 2026
 
