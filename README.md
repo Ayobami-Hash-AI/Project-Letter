@@ -3,25 +3,80 @@
 ## Cybersecurity Development Journal | Updated November 9, 2026
 
 **Ayobami Odulaja**  
-Cybersecurity Analyst | SOC Operations · Cloud & Linux Security · Long-Term Healthcare Security Focus
+Cybersecurity Analyst | SOC Operations | Python Automation | Cloud and Linux Security
 
-[LinkedIn](https://www.linkedin.com/in/ayobami-o-077004152) · [TryHackMe](https://tryhackme.com/p/odulajaayobami) · [Cybersecurity Portfolio](https://github.com/Ayobami-Hash-AI/Cybersecurity-Portfolio-Ayobami-Odulaja)
-
----
+[LinkedIn](https://www.linkedin.com/in/ayobami-o-077004152) · [TryHackMe](https://tryhackme.com/p/odulajaayobami) · [GitHub Projects](https://github.com/Ayobami-Hash-AI?tab=repositories)
 
 ## Quick overview for recruiters
 
-**Professional direction:** SOC operations, threat detection, network defense, identity and cloud security, and security engineering. My clinical background is an additional strength for high-stakes environments, with healthcare security as a long-term specialization—not an industry restriction.
+I am a cybersecurity professional with experience in security monitoring, threat investigation, incident documentation, and Windows and Linux environments. I combine an honours diploma in cybersecurity with an MBBS and clinical experience, bringing practical knowledge of healthcare workflows, sensitive information, and time-critical decisions. My focus is security operations, automation, network defense, and cloud and identity security, with a long-term interest in healthcare cybersecurity.
 
-**Recent milestones:** CompTIA Security+ passed **October 1, 2026**; CySA+ preparation underway for **October 31, 2026**; practical Linux learning on LabEx; ongoing SOC investigations and reporting.
+My current CV records a **Security Operations Center Analyst L1** role at **Brookes Automation (September 2026–present)**, following a **Security Analyst Internship (December 2025–August 2026)**. My work includes Microsoft Sentinel alert monitoring, Microsoft Defender endpoint triage, traffic and phishing investigation, and ServiceNow documentation. The projects below provide separate evidence of my independent and training-based work.
 
-**Explore the work:** [Cybersecurity portfolio](https://github.com/Ayobami-Hash-AI/Cybersecurity-Portfolio-Ayobami-Odulaja) · [Python projects](https://github.com/Ayobami-Hash-AI/Python) · [Linux labs](https://github.com/Ayobami-Hash-AI/Linux-Administration-and-Security) · [TryHackMe](https://tryhackme.com/p/odulajaayobami)
+## November 2026 — Current Development Update
 
-**Reading guide:** This repository is a dated professional-development journal, not a substitute for technical project evidence. The latest updates appear first; older milestones remain for historical context. Certification achievements, course completions, badges, and future goals are separate categories.
+### Python security automation
+
+My [MedSecure Python Security Automation](https://github.com/Ayobami-Hash-AI/MedSecure-Python-Security-Automation) project has progressed beyond the initial log parser. The repository now documents five completed milestones:
+
+- Parse timestamped synthetic authentication events, validate IPv4 addresses, and group failures by source.
+- Detect five or more failed attempts from one IP within a sliding 60-second window.
+- Generate structured JSON incident reports with identifiers, timestamps, severity, and investigation status.
+- Cover detection and reporting with nine automated tests.
+- Package the application in a non-root Docker container and configure GitHub Actions for tests, image builds, and a container smoke test.
+
+This is an on-demand learning prototype. Native Linux log-format support, continuous monitoring, and repeat-alert deduplication remain development goals. A threshold alert requires investigation; it does not establish that an attack occurred.
+
+### MedSecure infrastructure and segmentation
+
+My [MedSecure SOC Home Lab](https://github.com/Ayobami-Hash-AI/Med-Secure) documents a Hyper-V environment with pfSense, four private internal network switches, five firewall interface assignments, and configured internal gateway addresses. Ubuntu Desktop installation and boot are documented.
+
+The next steps are to verify the Ubuntu guest network configuration and pfSense management access, then validate firewall policies. Windows infrastructure, centralized telemetry, and the wider SOC stack remain planned work rather than a completed deployment.
+
+### Project evidence
+
+| Project | Work demonstrated | Current scope |
+|---|---|---|
+| [MedSecure Python Security Automation](https://github.com/Ayobami-Hash-AI/MedSecure-Python-Security-Automation) | Python, event correlation, JSON reporting, tests, Docker, GitHub Actions | Five milestones documented as complete; further development ongoing |
+| [MedSecure SOC Home Lab](https://github.com/Ayobami-Hash-AI/Med-Secure) | Hyper-V, pfSense installation, interface mapping, segmented network design, Ubuntu deployment | Firewall installed; segmentation and management validation in progress |
+| [Networkwalks lab setup and Wireshark exercises](https://github.com/Ayobami-Hash-AI/-NETWORKWALKS-AYOBAMI-B084-WK1-PM1-CYBERSECURITY-LAB-SETUP) | VirtualBox, Kali Linux, NAT and static addressing, connectivity checks, traffic analysis | Documented guided lab exercises |
+| [Linux Administration and Security](https://github.com/Ayobami-Hash-AI/Linux-Administration-and-Security) | Linux administration practice and user-creation documentation | Ongoing practical learning |
+| [TryHackMe Simulations](https://github.com/Ayobami-Hash-AI/THM-SIMULATIONS) | Guided security investigations and incident write-ups | Training-based practice |
+| [Python exercises](https://github.com/Ayobami-Hash-AI/Python) | Programming practice and structured problem-solving | Ongoing learning |
+| [AI Projects](https://github.com/Ayobami-Hash-AI/AI-Projects) | AI-assisted application development, including Quiz Rally | Contribution, validation, and limitations documented per project |
+
+Additional training projects include Active Directory users, groups, organizational units, permissions and Group Policy, plus FortiGate network segmentation and firewall exercises. These are lab skills, separate from production administration claims.
+
+### Healthcare and AI experience
+
+My ICU experience, Canadian first-response work, clinical administration, and rehabilitation volunteering strengthen my approach to documentation, escalation, confidentiality, and multidisciplinary communication. I have experience with Accuro and OSCAR workflows and exposure to PointClickCare, alongside OHIP verification and vaccination inventory work.
+
+I also contribute to AI training and evaluation, including text-to-image and voice-to-text assignments and clinical reasoning tasks involving synthetic information. This work develops instruction adherence, error identification, structured feedback, and traceable reasoning. Client materials and confidential task content are not included in this public journal.
+
+### Certifications and training added to this update
+
+- **CompTIA Security+ ce** — passed October 1, 2026; credential valid through October 2029.
+- **Qualys Certified Specialist — Vulnerability Management Detection and Response (VMDR)** — issued October 2026; valid through October 2028.
+- **Qualys Certified Specialist — PCI Compliance** — issued October 2026; valid through October 2028.
+- **HIPAA for Administrators — OSHAcademy** — completed October 26, 2026; two-hour training course.
+
+My existing credentials include ISC2 CC, Microsoft Azure Fundamentals (AZ-900), and Fortinet NSE 1 and NSE 2. Course completions, learning badges, and certifications are identified separately in the credential sections below.
+
+**CySA+ status:** Earlier entries recorded an October 31, 2026 exam appointment. An outcome has not been confirmed for this update, so CySA+ is not listed as an earned certification.
+
+### Current priorities
+
+1. Extend the Python detector with more robust parsing, error handling, and deduplication.
+2. Verify MedSecure management connectivity and test least-privilege firewall policies.
+3. Continue SOC investigations, Linux administration, and evidence-based incident reporting.
+4. Develop Microsoft security monitoring, identity, networking, and cloud skills; SC-200, CCNA, and ITIL remain planned credentials.
+5. Participate in BSides Ottawa as a scheduled volunteer on November 19–20, 2026.
+
+**Reading guide:** The sections below preserve earlier development notes and dated TryHackMe records. Historical plans and platform statistics describe their recorded dates; this overview states the current project scope.
 
 ---
 
-## October 2026 — Current Development Update
+## October 2026 — Archived Development Update
 
 **North star: healthcare cybersecurity.** My immediate work in SOC analysis, Linux, scripting, cloud security, and networking is deliberately building toward protecting healthcare infrastructure, clinical applications, patient information, and the availability of critical care services. My clinical background helps me connect technical incidents to patient-safety and operational consequences.
 
@@ -52,7 +107,7 @@ Recent guided security simulations have focused on:
 
 ### Python, cloud, and security engineering
 
-I am developing **Python** for scripting and future security automation, alongside Azure administration and identity-security concepts such as Entra ID, RBAC, logging, and network controls. My practical Python work is tracked separately in the [Python repository](https://github.com/Ayobami-Hash-AI/Python). The [cybersecurity portfolio](https://github.com/Ayobami-Hash-AI/Cybersecurity-Portfolio-Ayobami-Odulaja) holds broader lab and security-project work.
+I am developing **Python** for scripting and future security automation, alongside Azure administration and identity-security concepts such as Entra ID, RBAC, logging, and network controls. My practical Python work is tracked separately in the [Python repository](https://github.com/Ayobami-Hash-AI/Python). The [cybersecurity portfolio](https://github.com/Ayobami-Hash-AI?tab=repositories) holds broader lab and security-project work.
 
 ### Development roadmap
 
@@ -68,7 +123,7 @@ This roadmap describes intended development, not credentials already earned.
 
 ---
 
-## Executive Summary
+## Earlier Development Summary
 
 Over the past month, I have deliberately strengthened my practical cybersecurity capabilities across security operations, network traffic analysis, threat detection, cloud administration, and home-lab engineering. My work has combined guided training with hands-on investigation, technical documentation, and repeated problem-solving in controlled environments.
 
@@ -273,6 +328,9 @@ My completed credentials reflect continued development across cybersecurity foun
 
 | Credential | Issuer | Issued | Validity |
 |---|---|---:|---:|
+| **CompTIA Security+ ce** | CompTIA | October 2026 | Through October 2029 |
+| **Qualys Certified Specialist — VMDR** | Qualys | October 2026 | Through October 2028 |
+| **Qualys Certified Specialist — PCI Compliance** | Qualys | October 2026 | Through October 2028 |
 | **Cybersecurity Foundations: Governance, Risk, and Compliance (GRC)** | LinkedIn Learning | August 2026 | No expiry stated |
 | **Certified in Cybersecurity (CC)** | ISC2 | March 2026 | Through March 2029 |
 | **Fortinet NSE 2 Certified in Cybersecurity** | Fortinet | January 2026 | Through January 2028 |
@@ -292,19 +350,23 @@ My completed credentials reflect continued development across cybersecurity foun
 
 These credentials complement my practical labs by establishing verified foundations in security principles, governance and compliance, Microsoft Azure, AWS cloud concepts, ServiceNow, AI, networking, and defensive-security practice.
 
-## 6. Current Learning and Certification Goals
+## 6. Learning and Certification Goals
 
 My active development plan combines hands-on labs with industry certification preparation:
 
 - **CompTIA Security+** — **passed October 1, 2026**
-- **CompTIA CySA+ (CS0-004)** — examination scheduled for October 31, 2026
+- **CompTIA CySA+** — previously scheduled for October 31, 2026; outcome not confirmed in this update
 - **TryHackMe SOC Level 1** — in progress
 - **TryHackMe AI Security** — in progress
 - **ISO/IEC 27001 and IT service management** — developing governance and operational knowledge
 
+### Healthcare privacy training
+
+**HIPAA for Administrators — OSHAcademy** | Completed October 26, 2026 | Two training hours. This is course completion, not a professional licence.
+
 ## Tools and Technologies Used
 
-`Wireshark` · `NetworkMiner` · `TryHackMe` · `pfSense` · `Splunk` · `Sysmon` · `LimaCharlie` · `Nessus` · `Windows Server` · `Active Directory` · `Kali Linux` · `Microsoft Azure` · `PowerShell` · `Python` · `VMware`
+`Docker` · `GitHub Actions` · `Git` · `Hyper-V` · `Ubuntu` · `Wazuh` · `Microsoft Sentinel` · `Microsoft Defender for Endpoint` · `ServiceNow` · `Wireshark` · `NetworkMiner` · `TryHackMe` · `pfSense` · `Splunk` · `Sysmon` · `LimaCharlie` · `Nessus` · `Windows Server` · `Active Directory` · `Kali Linux` · `Microsoft Azure` · `PowerShell` · `Python` · `VMware`
 
 ## Outcomes This Month
 
@@ -318,7 +380,7 @@ By the end of this period, I had:
 6. Produced clearer technical explanations suitable for project documentation.
 7. Maintained consistent hands-on learning while preparing for industry certifications.
 
-## Next Objectives
+## Earlier Objectives and Continuing Roadmap
 
 My next phase will focus on:
 
