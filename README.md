@@ -1,6 +1,6 @@
 # Cybersecurity Project Letter
 
-## Cybersecurity Development Journal | Updated November 9, 2026
+## Cybersecurity Development Journal | Updated November 11, 2026
 
 **Ayobami Odulaja**  
 Cybersecurity Analyst | SOC Operations | Python Automation | Cloud and Linux Security
@@ -141,6 +141,12 @@ My primary objective has been to move beyond theoretical familiarity and develop
 | Home-lab engineering | Continued developing the MedSecure SOC environment | Network segmentation, logging architecture, endpoint visibility |
 | Certification readiness | Passed CompTIA Security+; preparing for CySA+ | Risk, operations, incident response, vulnerability management |
 | Cloud administration | Reinforced Microsoft Azure administration concepts | Entra ID, RBAC, Azure Policy, monitoring, storage, networking |
+
+## Verified TryHackMe Progress — November 11, 2026
+
+The public TryHackMe profile now records a **155-day highest streak**, displayed capability score **54**, **top-3% standing**, and highest league **Sapphire**. Compared with the last verified update on November 9, this confirms **three additional streak days**, while the displayed score, percentile standing, highest league, and **two completed learning paths**—Cyber Security 101 and Pre Security (Legacy)—remain unchanged.
+
+The completed-room list now includes **Intro to Malware Analysis** and **Malware Classification**. These completions verify foundational malware-investigation practice: using common resources to assess suspicious files, performing basic static and dynamic analysis in a safe environment, classifying common malware by behavior and purpose, distinguishing executable from script-based threats, and applying classification in a simulated SOC alert workflow. Both rooms are publicly associated with SOC Level 1 content, but the profile does not expose an updated pathway percentage. It also does not verify a new badge, certificate, or numerical global-rank change; therefore, no such claim is made.
 
 ## Verified TryHackMe Progress — November 9, 2026
 
