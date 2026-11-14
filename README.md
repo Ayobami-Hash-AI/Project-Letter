@@ -1,6 +1,6 @@
 # Cybersecurity Project Letter
 
-## Cybersecurity Development Journal | Updated November 13, 2026
+## Cybersecurity Development Journal | Updated November 14, 2026
 
 **Ayobami Odulaja**  
 Cybersecurity Analyst | SOC Operations | Python Automation | Cloud and Linux Security
@@ -141,6 +141,12 @@ My primary objective has been to move beyond theoretical familiarity and develop
 | Home-lab engineering | Continued developing the MedSecure SOC environment | Network segmentation, logging architecture, endpoint visibility |
 | Certification readiness | Passed CompTIA Security+; preparing for CySA+ | Risk, operations, incident response, vulnerability management |
 | Cloud administration | Reinforced Microsoft Azure administration concepts | Entra ID, RBAC, Azure Policy, monitoring, storage, networking |
+
+## Verified TryHackMe Progress — November 14, 2026
+
+The public TryHackMe profile continues to show a **156-day highest streak**, displayed capability score **54**, **top-3% standing**, highest league **Sapphire**, and **two completed learning paths**—Cyber Security 101 and Pre Security (Legacy)—all unchanged from the November 13 update.
+
+The completed-room list now includes **Living Off the Land Attacks**, bringing the publicly displayed completed-room total to **127**. TryHackMe describes the room as detecting and analysing Living Off the Land attacks using trusted Windows tools; its public metadata identifies Windows, PowerShell, and malware analysis. This completion therefore verifies practical learning in investigating malicious use of legitimate Windows utilities and PowerShell without implying production experience. The current public API also displays **level 10**, global rank **66,662**, and **32 badges**, but the November 13 README does not contain prior values for those fields, so no level, numerical-rank, or badge-count change is claimed. No new certificate or updated SOC Level 1 or AI Security pathway percentage is publicly verified.
 
 ## Verified TryHackMe Progress — November 13, 2026
 
